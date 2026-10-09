@@ -10,31 +10,31 @@ An interactive weather dashboard built with Python in Google Colab to explore we
 
 The main interface, featuring the city selector and weather forecast button.
 
-![Dashboard Homepage](screenshots/homepage.png)
+![Dashboard Homepage](screenshots/homepage.jpeg)
 
 ### 2. 🌦️ Daily Weather Forecast
 
 Displays today's and tomorrow's weather conditions, minimum and maximum temperatures, rain probability, and expected rainfall.
 
-![Daily Weather Forecast](screenshots/daily-forecast.png)
+![Daily Weather Forecast](screenshots/daily-forecast.jpeg)
 
 ### 3. 🌡️ 7-Day Temperature Forecast
 
 Visualizes minimum and maximum temperatures over the next seven days.
 
-![Temperature Forecast](screenshots/temperature-chart.png)
+![Temperature Forecast](screenshots/temperature-chart.jpeg)
 
 ### 4. 🌧️ 7-Day Rain Forecast
 
 Shows rain probability and expected rainfall using a combination of bars and a line chart.
 
-![Rain Forecast](screenshots/rain-chart.png)
+![Rain Forecast](screenshots/rain-chart.jpeg)
 
 ### 5.  Complete Dashboard View
 
 An additional view of the weather dashboard and its blue-and-white interface.
 
-![Complete Dashboard](screenshots/dashboard-overview.png)
+![Complete Dashboard](screenshots/dashboard-overview.jpeg)
 
 ##  Features
 
